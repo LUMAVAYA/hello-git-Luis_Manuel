@@ -161,3 +161,8 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mej
 [![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://moure.dev)
 [![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
+
+
+Experiencia con los comandos (Luis Manuel)
+Es bastante entretenido, tuve algunos problemas leves pero fueron por cuestiones de no revisar que lo que estaba realizando no estaba en los lugares correctos, asi que generaba error, pero fueron rapidos de resolver dando una pequeña revisada.
+Los comandos son bastante intuitivos, no son complicados de entender, eso facilito las cosas que tenia por hacer.
